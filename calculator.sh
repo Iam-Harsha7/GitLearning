@@ -2,3 +2,5 @@
 #
 #
 #Addition function
+#
+x = a+b
